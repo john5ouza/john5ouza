@@ -7,7 +7,7 @@ Dev em formação com foco em Javascript.
 
 <br>
 
-
+#
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john5ouza&show_icons=true&theme=dracula)
 
 
