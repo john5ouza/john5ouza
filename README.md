@@ -1,8 +1,8 @@
-### Olá, sou o John 👻
-Apaixonado por tecnologia em processo de desenvolvimento <br>
-nas skills de Front-End utilizando Javascript e Ruby.
+### Hi, I'm John 👻
+Passionate about technology and developing <br>
+in Front-End skills using Javascript and Ruby.
 
-##### Tecnologias que utilizo no dia a dia:
+##### Technologies I use daily:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ruby,figma)](https://skillicons.dev)
 
 #
