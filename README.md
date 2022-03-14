@@ -1,7 +1,8 @@
 ### Olá, sou o John 👻
-Dev em formação com foco em Javascript.
+Apaixonado por tecnologia em processo de desenvolvimento <br>
+nas skills de Front-End utilizando Javascript e Ruby.
 
-#### Tecnologias que utilizo no dia a dia:
+##### Tecnologias que utilizo no dia a dia:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ruby,figma)](https://skillicons.dev)
 
 #
