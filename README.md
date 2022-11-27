@@ -1,6 +1,6 @@
 ### Hi, I'm John 👻
 Passionate about technology and developing <br>
-in Front-End skills using Javascript and Typescript.
+in Front-End skills using Javascript, Typescript and React JS.
 
 ##### Technologies i'm studying:
 [![My Skills](https://skillicons.dev/icons?i=css,js,typescript,react,angular,figma)](https://skillicons.dev)
