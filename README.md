@@ -1,6 +1,5 @@
 ### Hi, I'm John 👻
-Passionate about technology and developing <br>
-in Front-End skills using Javascript, Typescript and React JS.
+Passionate about technology, design and science fiction. Currently in the process of training in android development.
 
 ##### Technologies i'm studying:
 [![My Skills](https://skillicons.dev/icons?i=css,js,typescript,react,java,kotlin,figma)](https://skillicons.dev)
