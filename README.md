@@ -6,7 +6,4 @@ Transitioning into backend development, focused on C#. In my spare time, I study
 ##### Technologies i'm studying:
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,angular,cs,ruby)](https://skillicons.dev)
 
-#
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john5ouza&show_icons=true&theme=dracula)
-
 
