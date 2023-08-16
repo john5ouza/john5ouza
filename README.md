@@ -1,6 +1,6 @@
 ### Hi, I'm John 👻
 
-Transitioning into backend development, focused on C#. In my spare time, I study Ruby for future contributions to open source projects. This space will document my learning journey. Feel free to follow along and get in touch!
+From Product Designer to Backend Developer, honing my skills in C# and .NET. Outside of this, I delve into Ruby, aiming to contribute to open-source projects soon. Here, I'll chronicle my tech voyage. 
 
 
 ##### Technologies i'm studying:
