@@ -1,9 +1,7 @@
-### Hi, I'm John 👻
+## Sobre Mim
 
-From Visual Designer to Developer, honing my skills in C#. Here, I'll chronicle my tech voyage. 
+Olá, sou o [John](https://www.linkedin.com/in/john5ouza/), Designer em transição para o desenvolvimento de software! 👻
 
+Com background em design visual, estou agora **focado em desenvolvimento web** com **Java** e **Spring Boot**. 
 
-##### Technologies i'm studying:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,cpp)](https://skillicons.dev)
-
-
+Busco oportunidades para **colaborar em projetos Open Source** futuramente. Além disso, tenho um forte interesse em **mudar a vida das pessoas PCD's** e estou dedicando meus estudos para entender e implementar **soluções de acessibilidade** nesse processo.
