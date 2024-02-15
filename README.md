@@ -1,7 +1,7 @@
-## Sobre Mim
+## About Me
 
-Olá, sou o [John](https://www.linkedin.com/in/john5ouza/), Designer em transição para o desenvolvimento de software! 👻
+Hello, I'm [John](https://www.linkedin.com/in/john5ouza/), a Designer transitioning to software development! 👻
 
-Com background em design visual, estou agora **focado em desenvolvimento web** com **Java** e **Spring Boot**. 
+With a background in visual design, I'm now focused on **web development** with **Java** and **Spring Boot**.
 
-Busco oportunidades para **colaborar em projetos Open Source** futuramente. Além disso, tenho um forte interesse em **mudar a vida das pessoas PCD's** e estou dedicando meus estudos para entender e implementar **soluções de acessibilidade** nesse processo.
+I'm seeking opportunities to **contribute to Open Source projects** in the future. Additionally, I have a strong interest in **making a difference in the lives of PWDs** (People with Disabilities) and am dedicating my studies to understanding and implementing **accessibility solutions** in this process.
